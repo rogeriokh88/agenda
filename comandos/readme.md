@@ -4,7 +4,10 @@ inicia o projeto django
 python -m venv venv
 .venv/bin/activate
 pip install django
-django-0admin startproject project .
+django-admin startproject project .
+python manage.py startapp contact
+python manage.py sunserver
+
 
 configurar o git
 
